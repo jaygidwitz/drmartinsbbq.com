@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## "PURSUING SMOKE & FLAVOR WITH SURGICAL PRECISION"
 
-You can use the [editor on GitHub](https://github.com/jaygidwitz/drmartinsbbq.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+If you're looking to start a BBQ business, cater a BBQ event or just have a great backyard BBQ party we are here to help. For the past seven years we've been involved in all aspects of competition, commercial and personal BBQ. Whether it's wood, charcoal or pellets you're using; we can help refine this amazing and increasingly popular American tradition.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Certifications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- On-Site BBQ Consulting
 
-```markdown
-Syntax highlighted code block
+- Certified KCBS Judge
 
-# Header 1
-## Header 2
-### Header 3
+- Certified Memphis in May Judge
 
-- Bulleted
-- List
+- Graduate, Natural Gourmet Cookery School, NYC
 
-1. Numbered
-2. List
+- Certified Food Safety Manager, RI Department of Health
 
-**Bold** and _Italic_ and `Code` text
+- Serv Safe Food Protection Manager
 
-[Link](url) and ![Image](src)
-```
+### Contact Information
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+CALL US TODAY: [401-480-4431](tel:401-480-4431)
 
-### Jekyll Themes
+ [drmartinsbbq@icloud.com](email:drmartinsbbq@icloud.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaygidwitz/drmartinsbbq.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
