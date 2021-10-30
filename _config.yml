@@ -1,6 +1,8 @@
 theme: jekyll-theme-merlot
 title: Welcome to Dr. Martin's BBQ
 description: If you’re looking to start a BBQ business, cater a BBQ event or just have a great backyard BBQ party we are here to help.
+url: https://www.drmartinsbbq.com
+author: Stewart Martin
 
 plugins:
   - "jekyll-github-metadata"
