@@ -5,9 +5,9 @@ url: https://www.drmartinsbbq.com
 author: Stewart Martin
 
 plugins:
-  - "jekyll-github-metadata"
-  - "jekyll-seo-tag"
-  - "jekyll-feed"
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-feed
 
 gems:
   - jekyll-font-awesome-sass
