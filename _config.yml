@@ -5,3 +5,4 @@ description: If you’re looking to start a BBQ business, cater a BBQ event or j
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-seo-tag"
+  - "jekyll-feed"
