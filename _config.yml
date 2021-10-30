@@ -1,3 +1,4 @@
 theme: jekyll-theme-merlot
 plugins:
   - "jekyll-github-metadata"
+  - "jekyll-seo-tag"
