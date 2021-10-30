@@ -16,3 +16,4 @@ ul li {
     padding-left: 26px;
     background: transparent url(https://www.drmartinsbbq.com/assets/images/steak.svg) left 0 no-repeat;
 }
+ul li::before {color: red;}
