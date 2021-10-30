@@ -8,19 +8,13 @@ If you're looking to start a BBQ business, cater a BBQ event or just have a grea
 ### Certifications
 
 - On-Site BBQ Consulting
-
 - Certified KCBS Judge
-
 - Certified Memphis in May Judge
-
 - Graduate, Natural Gourmet Cookery School, NYC
-
 - Certified Food Safety Manager, RI Department of Health
-
 - Serv Safe Food Protection Manager
 
 ### Contact Information
 
-CALL US TODAY: [401-480-4431](tel:401-480-4431)
-
-<drmartinsbbq@icloud.com>
+Call Us Today: [401-480-4431](tel:401-480-4431)
+Email US Now: <drmartinsbbq@icloud.com>
