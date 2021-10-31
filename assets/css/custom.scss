@@ -17,9 +17,7 @@ header span.ribbon-inner {text-align: center;}
 
 ul {
     list-style-image: url(https://www.drmartinsbbq.com/assets/images/steak.svg);
-}
-ul li {
-    line-height: .5;
+    list-style-position: outside;
 }
 
 ul li::marker {
