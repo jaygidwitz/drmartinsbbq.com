@@ -1,8 +1,3 @@
-title: Dr. Martin's BBQ
-description: If you’re looking to start a BBQ business, cater a BBQ event or just have a great backyard BBQ party we are here to help.
-tagline: Pursuing Smoke & Flavor with Surgical Precision
-image: /assets/images/DR-Martin-BBQ.jpg
-
 ## PURSUING SMOKE & FLAVOR WITH SURGICAL PRECISION
 
 ![BBQ is Beautiful!](/assets/images/DR-Martin-BBQ.jpg "Dr. Martin's BBQ")
