@@ -16,6 +16,13 @@ ul li {
     background: transparent url(https://www.drmartinsbbq.com/assets/images/steak.svg) left 0 no-repeat;
     background-size: 15px 15px;
 }
+ul {
+    list-style: dot;
+}
+ul li::marker{
+    content: url("https://www.drmartinsbbq.com/assets/images/steak.svg")
+}
+
 footer span.ribbon-inner a {
     line-height: 2;
 }
