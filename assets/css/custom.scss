@@ -2,8 +2,11 @@
 ---
 
 // (Your custom CSS Here)
+
 a#forkme_banner {display:none;}
+
 header span.ribbon-inner {text-align: center;}
+
 .before-title {color: #ece4d8;
     font-weight: 600;
     background-color: #7c334f;
@@ -11,16 +14,9 @@ header span.ribbon-inner {text-align: center;}
     font-style: oblique;
     padding-top: 0.5em
 }
-ul li {
-    padding-left: 26px;
-    background: transparent url(https://www.drmartinsbbq.com/assets/images/steak.svg) left 0 no-repeat;
-    background-size: 15px 15px;
-}
+
 ul {
-    list-style: dot;
-}
-ul li::marker{
-    content: url("https://www.drmartinsbbq.com/assets/images/steak.svg")
+    list-style: outside url("https://www.drmartinsbbq.com/assets/images/steak.svg") no-repeat;
 }
 
 footer span.ribbon-inner a {
