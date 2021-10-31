@@ -15,7 +15,8 @@ ul li {
     padding-left: 26px;
     background: transparent url(https://www.drmartinsbbq.com/assets/images/steak.svg) left 0 no-repeat;
 }
-ul li::marker {max-height: 20px;max width: 10px;}
+ul li::marker,
+ul li::before {max-height: 20px;max width: 10px;}
 footer span.ribbon-inner a {
     line-height: 2;
 }
