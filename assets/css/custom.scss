@@ -15,10 +15,11 @@ header span.ribbon-inner {text-align: center;}
     padding-top: 0.5em
 }
 
-ul {
-    list-style: outside url("https://www.drmartinsbbq.com/assets/images/steak.svg") no-repeat;
+
+ul li::marker {
+    content: url('https://www.drmartinsbbq.com/assets/images/steak.svg');
+    font-size: 2em;
 }
-::marker {font-size: 5rem;}
 
 footer span.ribbon-inner a {
     line-height: 2;
