@@ -15,13 +15,19 @@ header span.ribbon-inner {text-align: center;}
     padding-top: 0.5em
 }
 
-ul {
-    list-style-image: url(https://www.drmartinsbbq.com/assets/images/steak.svg);
-    list-style-position: outside;
-}
+.single-before {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 
-ul li::marker {
-    font-size: 4em;
+      li {
+        padding-left: 1rem;
+        text-indent: -0.7rem;
+      }
+
+      li::before {
+        content: "\U+1F356 ";
+      }
 }
 
 footer span.ribbon-inner a {
