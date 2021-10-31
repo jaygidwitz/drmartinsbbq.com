@@ -1,8 +1,24 @@
 theme: jekyll-theme-merlot
 title: Welcome to Dr. Martin's BBQ
 description: If you’re looking to start a BBQ business, cater a BBQ event or just have a great backyard BBQ party we are here to help.
+tagline: Pursuing Smoke & Flavor with Surgical Precision
 url: https://www.drmartinsbbq.com
+image: /assets/images/DR-Martin-BBQ.jpg
 author: Stewart Martin
+twitter:
+  username: stewartmartin
+  card: summary
+logo: https://www.drmartinsbbq.com/favicon.png
+social: 
+  name: Dr. Martin's BBQ
+  links:
+    - https://twitter.com/stewartmartin
+    - https://www.drmartinsbbq.com
+    - https://stewartmartin.net/
+    - https://providencegardenworks.com/
+    - https://www.linkedin.com/in/stewart-martin-080105b/
+google_site_verification:
+locale: en_US
 
 plugins:
   - jekyll-github-metadata
