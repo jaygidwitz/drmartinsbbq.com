@@ -33,3 +33,9 @@ ul {
 footer span.ribbon-inner a {
     line-height: 2;
 }
+
+section#before_footer {
+    z-index: 2;
+    padding: 20px 82px 0;
+    min-height: 185px;
+}
