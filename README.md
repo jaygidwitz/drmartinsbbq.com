@@ -22,4 +22,4 @@ _Email Us Now_: <stewartmartin@mac.com>
 
 Visit Our Other Businesses
 ---
-[Stewart Martin Photo & Printing](https://stewartmartin.net/) &middot; [Fearless Computing](https://fearlesscomputingri.com/) &middot; [Providence Garden Works](https://providencegardenworks.com/)
+<p style="text-align: center;">[Stewart Martin Photo & Printing](https://stewartmartin.net/) &middot; [Fearless Computing](https://fearlesscomputingri.com/) &middot; [Providence Garden Works](https://providencegardenworks.com/)</p>
