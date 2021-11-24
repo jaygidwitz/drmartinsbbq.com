@@ -19,3 +19,7 @@ If you're looking to start a BBQ business, cater a BBQ event or just have a grea
 _Call Us Today_: [401-480-4431](tel:401-480-4431)
 
 _Email Us Now_: <stewartmartin@mac.com>
+
+Visit Our Other Businesses
+---
+[Stewart Martin Photo & Printing](https://stewartmartin.net/) &middot; [Fearless Computing](https://fearlesscomputingri.com/) &middot; [Providence Garden Works](https://providencegardenworks.com/)
