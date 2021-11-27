@@ -20,3 +20,8 @@ _Call Us Today_: [401-480-4431](tel:401-480-4431)
 
 _Email Us Now_: <stewartmartin@mac.com>
 
+### Visit Our Other Businesses!
+
+[Martin Lab + Stewart Martin Photography](https://stewartmartin.net/)
+[Providence Gardenworks](https://www.providencegardenworks.com/)
+[Fearless Computing RI](https://www.fearlesscomputingri.com)
