@@ -23,5 +23,7 @@ _Email Us Now_: <stewartmartin@mac.com>
 ### Visit Our Other Businesses!
 
 [Martin Lab + Stewart Martin Photography](https://stewartmartin.net/)
+
 [Providence Gardenworks](https://www.providencegardenworks.com/)
+
 [Fearless Computing RI](https://www.fearlesscomputingri.com)
